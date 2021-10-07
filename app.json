@@ -1,7 +1,7 @@
 {
   "name": "Inline Games",
   "description": "A Telegram bot providing games that can be played in any chat.",
-  "repository": "https://github.com/jacklul/inlinegamesbot",
+  "repository": "https://github.com/rioprojectx/inlinegames",
   "logo": "https://raw.githubusercontent.com/jacklul/inlinegamesbot/master/logo.png",
   "buildpacks": [
     {
